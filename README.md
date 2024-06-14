@@ -3,13 +3,13 @@
 
 # Course Highlights
 ## MongoDB:
-### Learn how to use MongoDB for data storage, including CRUD operations and advanced querying techniques.
+ Learn how to use MongoDB for data storage, including CRUD operations and advanced querying techniques.
 
 ## Express.js:
-### Understand how to create a backend server with Express.js, manage routes, and handle middleware.
+ Understand how to create a backend server with Express.js, manage routes, and handle middleware.
 
 ## React:
-### Dive into building dynamic user interfaces with React, including hooks, state management, and component-based architecture.
+ Dive into building dynamic user interfaces with React, including hooks, state management, and component-based architecture.
 
 ## Node.js:
 ### Gain proficiency in building a backend server with Node.js, handling asynchronous operations, and integrating with databases.

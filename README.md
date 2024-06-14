@@ -12,10 +12,10 @@
  Dive into building dynamic user interfaces with React, including hooks, state management, and component-based architecture.
 
 ## Node.js:
-### Gain proficiency in building a backend server with Node.js, handling asynchronous operations, and integrating with databases.
+ Gain proficiency in building a backend server with Node.js, handling asynchronous operations, and integrating with databases.
 
 ## Full-Stack Integration:
-### Master the integration of frontend and backend, creating a seamless full-stack application.
+ Master the integration of frontend and backend, creating a seamless full-stack application.
 
 ## Deployment:
-### Learn how to deploy your applications to the web, ensuring they are production-ready.
+ Learn how to deploy your applications to the web, ensuring they are production-ready.

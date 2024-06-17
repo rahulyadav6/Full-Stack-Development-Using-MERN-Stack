@@ -1,0 +1,22 @@
+*{
+    font-family: Arial, Helvetica, sans-serif;
+}
+h1, .center-para,p{
+    text-align: center;
+    color: brown;
+}
+
+div + p{
+    background-color: yellow;
+}
+
+a[target]{
+    background-color: cyan;
+}
+
+/* div p{
+    background-color: yellow;
+}
+div > p{
+    background-color: cyan;
+} */

@@ -1,3 +1,7 @@
 In this lecture we learned about introduction about MERN stack. 
 How website works and how backend,frontend and databases are connected to each other. 
 mongoDB + Express + React + Node
+
+
+
+

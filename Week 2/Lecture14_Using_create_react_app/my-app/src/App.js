@@ -1,16 +1,8 @@
-import './App.css';
-
-import {Component} from "react"
-
+import { Component } from "react";
+import ToDoScreen from "./screens/ToDoScreen";
 class App extends Component{
-  name = "Rahul";
-  render(){
-    return(
-      <div>
-        <h1>This is {this.name}!</h1>
-      </div>
-    );
-  }
+    render(){
+        return <ToDoScreen></ToDoScreen>
+    }
 }
-
 export default App;
